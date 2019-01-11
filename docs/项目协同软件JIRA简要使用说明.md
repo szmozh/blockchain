@@ -11,8 +11,8 @@
 - 改变任务状态：把看板中某一任务从一栏拖动到另一栏即可改变任务状态  
 ![ia003bp-drag.png](http://image.mozhuang.xyz/ia003bp-drag.png)  
 - 查看任务详细描述：点击其中一个任务会在右侧显示任务的描述，可修改任务信息  
-![屏幕快照 2019-01-11 上午11.08.19.png](http://image.mozhuang.xyz/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-01-11%20%E4%B8%8A%E5%8D%8811.08.19.png)
+![ia003bp-describe.png](http://image.mozhuang.xyz/ia003bp-describe.png)
 
 ### 管理任务
-- 创建任务  
-![屏幕快照 2019-01-11 上午11.15.42.png](http://image.mozhuang.xyz/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-01-11%20%E4%B8%8A%E5%8D%8811.15.42.png)  
+- 创建任务：在页面上方点击“新建”菜单，显示下方画面进行创建任务.  
+![ia003bp-createtask.png](http://image.mozhuang.xyz/ia003bp-createtask.png)  
